@@ -19,6 +19,18 @@
 		"sideBar.background": "#f7f6f2",
 		"breadcrumb.background":"#f7f6f2",
 		"terminal.background":"#f7f6f2",
+		"progressBar.background":"#f7f6f2",
+		"list.hoverBackground":"#fff",
+		"list.hoverForeground":"#333333",
+		"list.activeSelectionBackground":"#fff",
+		"list.warningForeground":"#f7c94c",
+		"list.errorForeground":"#ff9d9d",
+		"list.focusBackground":"#fff",
+		"list.inactiveSelectionBackground":"#fff",
+		"panel.background":"#f7f6f2",
+		"panel.border":"#fff",
+		"statusBar.background":"#fff8dc",
+		"statusBar.foreground":"#4b4b4b"
 	},
 	"tokenColors": [
 		{
