@@ -6,14 +6,19 @@
 		"editor.background": "#ffffff",
 		"editorGroupHeader.tabsBackground":"#f7f6f2",
 		"activityBar.background": "#f7f6f2",
-		"tab.activeBorder":"#fff",
+		"tab.border":"#fff",
 		"editorGroup.border":"#fff",
 		"tab.unfocusedActiveBorder":"#fff",
-		"tab.activeBackground":"#fff",
+		"tab.activeBorder":"#fff",
+		"tab.activeBorderTop":"#fff",
 		"activityBar.foreground": "#021329",
+		"sideBarTitle.foreground":"#2b2b2b",
+		"sideBarSectionHeader.background":"#f7f6f2",
+		"sideBarSectionHeader.foreground":"#2b2b2b",
 		"contrastActiveBorder":"#ffffff00",
 		"sideBar.background": "#f7f6f2",
-		"button.foreground":"#000"
+		"breadcrumb.background":"#f7f6f2",
+		"terminal.background":"#f7f6f2",
 	},
 	"tokenColors": [
 		{
