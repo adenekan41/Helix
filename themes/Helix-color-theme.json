@@ -2,8 +2,18 @@
 	"name": "Helix",
 	"type": "light",
 	"colors": {
-		"editor.background": "#f5f5f5",
-		"editor.foreground": "#333333"
+		"editor.foreground": "#333333",
+		"editor.background": "#ffffff",
+		"editorGroupHeader.tabsBackground":"#f7f6f2",
+		"activityBar.background": "#f7f6f2",
+		"tab.activeBorder":"#fff",
+		"editorGroup.border":"#fff",
+		"tab.unfocusedActiveBorder":"#fff",
+		"tab.activeBackground":"#fff",
+		"activityBar.foreground": "#021329",
+		"contrastActiveBorder":"#ffffff00",
+		"sideBar.background": "#f7f6f2",
+		"button.foreground":"#000"
 	},
 	"tokenColors": [
 		{
