@@ -1,0 +1,21 @@
+{
+    "name": "helix",
+    "displayName": "Helix",
+    "description": "A Simple extension built on an articles setup",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Helix",
+                "uiTheme": "vs",
+                "path": "./themes/Helix-color-theme.json"
+            }
+        ]
+    }
+}
