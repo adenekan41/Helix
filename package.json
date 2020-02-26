@@ -1,21 +1,41 @@
 {
-    "name": "helix",
-    "displayName": "Helix",
-    "description": "A Simple extension built on an articles setup",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.40.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Helix",
-                "uiTheme": "vs",
-                "path": "./themes/Helix-color-theme.json"
-            }
-        ]
-    }
+	"name": "helix",
+	"displayName": "Helix",
+	"description": "A Simple extension built on an articles setup",
+	"version": "0.0.1",
+	"publisher": "codewonders",
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.40.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/adenekan41/Helix.git"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Theme",
+		"Light Theme",
+		"Helix",
+		"Early Bird",
+		"Accessible Theme"
+	],
+	"scripts": {
+		"publish": "vsce publish"
+	},
+	"galleryBanner": {
+		"color": "#333333",
+		"theme": "dark"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Helix",
+				"uiTheme": "vs",
+				"path": "./themes/Helix-color-theme.json"
+			}
+		]
+	}
 }

@@ -1,14 +1,32 @@
+![Drag Racing](https://i.ibb.co/DQrWr27/Group-1.png)
 # Helix
 ## A minimal monochrome UI theme for Vscode
 ![Drag Racing](https://i.ibb.co/bQZJKrc/Screen-Shot-2019-11-24-at-9-00-13-PM.png)
 * Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
 * Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
 * Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+
+## Installation
+- Install Visual Studio Code
+- Launch Visual Studio Code
+- Choose Extensions from menu
+- Search for helix
+- Click Install to install it
+- Click Reload to reload the Code
+- From the menu bar click: Code > Preferences > Color Theme > helix
+
+## Disable Italics
+If you wish to disable italics, there is now a no-italic theme available. You will have access to both, select helix No Italics as your color theme.
+
+Other versions
+The community is awesome and has ported this theme over to other environments.
+
+
 ## What's in the folder
 
 * This folder contains all of the files necessary for your color theme extension.
 * `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
-* `themes/Cidwix-color-theme.json` - the color theme definition file.
+* `themes/Helix-color-theme.json` - the color theme definition file.
 
 ## Get up and running straight away
 
