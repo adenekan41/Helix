@@ -1,6 +1,6 @@
 ![Drag Racing](https://i.ibb.co/DQrWr27/Group-1.png)
 # Helix
-## A minimal monochrome UI theme for Vscode
+### A minimal monochrome UI theme for Vscode built on notion.so(theme)
 ![Drag Racing](https://i.ibb.co/bQZJKrc/Screen-Shot-2019-11-24-at-9-00-13-PM.png)
 * Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
 * Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
