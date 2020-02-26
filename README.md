@@ -1,9 +1,8 @@
 # Helix 🌄
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/codewonders.helix.svg)](https://aka.ms/helix)
-[![Downloads](https://img.shields.io/vscode-marketplace/r/codewonders.helix.svg)](https://aka.ms/helix)
+A Visual Studio Code theme for the notion lovers out there. Fine-tuned for those of us who like to have the article creation feel. I have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
 
-### A minimal monochrome UI theme for Vscode built on notion.so(theme)
+## Theme
 
 ![Drag Racing](https://i.ibb.co/bQZJKrc/Screen-Shot-2019-11-24-at-9-00-13-PM.png)
 
