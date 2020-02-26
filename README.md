@@ -1,5 +1,8 @@
 # Helix 🌄
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/codewonders.helix.svg)](https://aka.ms/helix)
+[![Downloads](https://img.shields.io/vscode-marketplace/r/codewonders.helix.svg)](https://aka.ms/helix)
+
 ### A minimal monochrome UI theme for Vscode built on notion.so(theme)
 
 ![Drag Racing](https://i.ibb.co/bQZJKrc/Screen-Shot-2019-11-24-at-9-00-13-PM.png)
