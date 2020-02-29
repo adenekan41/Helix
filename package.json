@@ -32,14 +32,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Helix",
-				"uiTheme": "vs",
-				"path": "./themes/Helix-color-theme.json"
-			},
-			{
 				"label": "Helix Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Helix-dark-color-theme.json"
+			},
+			{
+				"label": "Helix",
+				"uiTheme": "vs",
+				"path": "./themes/Helix-color-theme.json"
 			}
 		]
 	}
