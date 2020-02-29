@@ -1,8 +1,16 @@
 # Helix 🌄
 
-A Visual Studio Code theme for the notion lovers out there. Fine-tuned for those of us who like to have the article creation feel. I have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
+[![vscode](https://vsmarketplacebadge.apphb.com/version/codewonders.helix.svg?style=for-the-badge&logo=appveyor)](https://code.visualstudio.com/updates/v1_12) [![made in nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=for-the-badge)](https://github.com/acekyd/made-in-nigeria) [![stars](https://vsmarketplacebadge.apphb.com/rating-star/codewonders.helix.svg?style=for-the-badge&logo=appveyor)](https://vsmarketplacebadge.apphb.com/rating-star/codewonders.helix.svg)
 
-## Theme
+A Visual Studio Code theme for the notion and slient cool theme lovers out there. Fine-tuned for those of us who like to have the article creation feel. I have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
+
+The light theme of this color theme was inspired by notion and the dark theme was inspired by Sarah Drasner. cool right ?
+
+## Dark Theme
+
+![Drag Racing](https://i.ibb.co/30M9NHW/Screen-Shot-2020-02-29-at-5-22-33-AM.png)
+
+## Light Theme
 
 ![Drag Racing](https://i.ibb.co/bQZJKrc/Screen-Shot-2019-11-24-at-9-00-13-PM.png)
 
@@ -20,18 +28,12 @@ A Visual Studio Code theme for the notion lovers out there. Fine-tuned for those
 - Click Reload to reload the Code
 - From the menu bar click: Code > Preferences > Color Theme > helix
 
-## Disable Italics
-
-If you wish to disable italics, there is now a no-italic theme available. You will have access to both, select helix No Italics as your color theme.
-
-Other versions
-The community is awesome and has ported this theme over to other environments.
-
 ## What's in the folder
 
 - This folder contains all of the files necessary for your color theme extension.
 - `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
-- `themes/Helix-color-theme.json` - the color theme definition file.
+- `themes/Helix-color-theme.json` - the color light theme definition file.
+- `themes/Helix-dark-color-theme.json` - the color dark theme definition file.
 
 ## Get up and running straight away
 
@@ -43,5 +45,8 @@ The community is awesome and has ported this theme over to other environments.
 
 - [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 - [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+> MIT © [codewonders.dev](https://codewonders.dev) &nbsp;&middot;&nbsp; GitHub
+> [@adenekan41 / codewonders](https://github.com/adenekan41) > &nbsp;&middot;&nbsp;
 
 **Enjoy!**

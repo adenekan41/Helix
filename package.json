@@ -1,8 +1,8 @@
 {
 	"name": "helix",
 	"displayName": "Helix",
-	"description": "A Simple extension built on an articles setup",
-	"version": "0.0.2",
+	"description": "A Visual Studio Code theme for the notion and slient cool theme lovers out there",
+	"version": "0.0.3",
 	"publisher": "codewonders",
 	"icon": "icon.png",
 	"engines": {
