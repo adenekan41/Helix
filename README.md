@@ -2,7 +2,7 @@
 
 [![vscode](https://vsmarketplacebadge.apphb.com/version/codewonders.helix.svg?style=for-the-badge&logo=appveyor)](https://code.visualstudio.com/updates/v1_12) [![made in nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=for-the-badge)](https://github.com/acekyd/made-in-nigeria) [![stars](https://vsmarketplacebadge.apphb.com/rating-star/codewonders.helix.svg?style=for-the-badge&logo=appveyor)](https://vsmarketplacebadge.apphb.com/rating-star/codewonders.helix.svg)
 
-A Visual Studio Code theme for the notion and slient cool theme lovers out there. Fine-tuned for those of us who like to have the article creation feel. I have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
+A Visual Studio Code theme for the notion and slient cool theme lovers out there. Fine-tuned for those of us who like to have the article creation feel. ✨
 
 The light theme of this color theme was inspired by notion and the dark theme was inspired by Sarah Drasner. cool right ?
 

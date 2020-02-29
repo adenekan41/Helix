@@ -2,7 +2,7 @@
 	"name": "helix",
 	"displayName": "Helix",
 	"description": "A Visual Studio Code theme for the notion and slient cool theme lovers out there",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"publisher": "codewonders",
 	"icon": "icon.png",
 	"engines": {
