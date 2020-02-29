@@ -2,7 +2,7 @@
 	"name": "helix",
 	"displayName": "Helix",
 	"description": "A Simple extension built on an articles setup",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "codewonders",
 	"icon": "icon.png",
 	"engines": {
@@ -35,6 +35,11 @@
 				"label": "Helix",
 				"uiTheme": "vs",
 				"path": "./themes/Helix-color-theme.json"
+			},
+			{
+				"label": "Helix Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Helix-dark-color-theme.json"
 			}
 		]
 	}
