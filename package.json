@@ -1,47 +1,46 @@
 {
-	"name": "helix",
-	"displayName": "Helix",
-	"description": "A Visual Studio Code theme for the notion and slient cool theme lovers out there",
-	"version": "0.0.5",
-	"publisher": "codewonders",
-	"icon": "icon.png",
-	"engines": {
-		"vscode": "^1.40.0"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/adenekan41/Helix.git"
-	},
-	"categories": [
-		"Themes"
-	],
-	"keywords": [
-		"Theme",
-		"Light Theme",
-		"Dark Theme",
-		"Helix",
-		"Notion",
-		"Accessible Theme"
-	],
-	"scripts": {
-		"publish": "vsce publish"
-	},
-	"galleryBanner": {
-		"color": "#333333",
-		"theme": "dark"
-	},
-	"contributes": {
-		"themes": [
-			{
-				"label": "Helix Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Helix-dark-color-theme.json"
-			},
-			{
-				"label": "Helix",
-				"uiTheme": "vs",
-				"path": "./themes/Helix-color-theme.json"
-			}
-		]
-	}
+  "name": "helix",
+  "displayName": "Helix",
+  "description": "A Visual Studio Code theme for the notion and slient cool theme lovers out there",
+  "version": "0.0.6",
+  "publisher": "codewonders",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adenekan41/Helix.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Theme",
+    "Light Theme",
+    "Dark Theme",
+    "Helix",
+    "Notion",
+    "Accessible Theme"
+  ],
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "galleryBanner": {
+    "color": "#333333",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [{
+        "label": "Helix Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Helix-dark-color-theme.json"
+      },
+      {
+        "label": "Helix",
+        "uiTheme": "vs",
+        "path": "./themes/Helix-color-theme.json"
+      }
+    ]
+  }
 }
