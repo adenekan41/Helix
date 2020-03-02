@@ -2,7 +2,7 @@
 	"name": "helix",
 	"displayName": "Helix",
 	"description": "A Visual Studio Code theme for the notion and slient cool theme lovers out there",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"publisher": "codewonders",
 	"icon": "icon.png",
 	"engines": {
@@ -18,8 +18,9 @@
 	"keywords": [
 		"Theme",
 		"Light Theme",
+		"Dark Theme",
 		"Helix",
-		"Early Bird",
+		"Notion",
 		"Accessible Theme"
 	],
 	"scripts": {
